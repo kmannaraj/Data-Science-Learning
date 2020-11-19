@@ -1,7 +1,14 @@
 # Data-Science-Learning
-Analyze the Seattle & Boston Airbnb data and come up with findings.
+Analyze the Seattle & Boston Airbnb data and come up with findings
+# Following Libraries were Used
 
-[]!
+pandas
+numpy
+matplotlib.pyplot
+matplotlib.dates
+seaborn
+wordcloud
+datetime
 
 # Files Included 
 
