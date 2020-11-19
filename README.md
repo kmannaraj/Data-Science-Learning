@@ -2,13 +2,13 @@
 Analyze the Seattle & Boston Airbnb data and come up with findings
 # Following Libraries were Used
 
-pandas
-numpy
-matplotlib.pyplot
-matplotlib.dates
-seaborn
-wordcloud
-datetime
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. matplotlib.dates
+5. seaborn
+6. wordcloud
+7. datetime
 
 # Files Included 
 
@@ -26,9 +26,9 @@ Airbnb provides a platform for hosts to accommodate guests with short-term lodgi
 
 The following Airbnb activity is included in Seattle & Boston datasets:
 
-Listings, including other features that are available in the listing and also the review score
-Reviews, includes the listing and the detailed comments 
-Calendar, containing the listing and the price associated
+1. Listings, including other features that are available in the listing and also the review score
+2. Reviews, includes the listing and the detailed comments 
+3. Calendar, containing the listing and the price associated
 
 # Data Preparation
 1. Cleanup
