@@ -63,7 +63,8 @@ The following Airbnb activity is included in Seattle & Boston datasets:
     
      Sentiment Analysis using polarity score does not tell us whether Good review correlates with prices. However it does show that moving from those places with good polarity        scores to lower polarity scores does show a slight decline in prices. A lot of the higher priced locales seem to have a very low polarity score. So any conclusion here          requires more analysis
      Sentiment Analysis reinforces the findings from review score rating. the top neighborhoods are an almost match in terms of where people have expressed positive comments
- Extra --    
+ 
+ # Extra --    
  Modeling for Seattle 
  1. Create train and test data sets using the cleansed features
  2. Important Features - "neighbourhood_cleansed","guests_included", "property_type","room_type", "accommodates", "bathrooms", "bedrooms", 
