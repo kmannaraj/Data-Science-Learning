@@ -30,6 +30,12 @@ The following Airbnb activity is included in Seattle & Boston datasets:
 2. Reviews, includes the listing and the detailed comments 
 3. Calendar, containing the listing and the price associated
 
+Questions 
+1. What do we understand about the availability of litings and their price over time
+2. What are the most common amenities
+3. Which areas are popular by way of rating score
+4. What do we understand from the sentiments of people writing reviews 
+
 # Data Preparation
 1. Cleanup
     1. Imputing "available" to 1 & 0 from t and f 
