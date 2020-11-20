@@ -1,7 +1,7 @@
 # Motivation
 Identifying and classifying features that influence an offer completion. It would be interesting to understand who and why complete a certain offer and what insights does this dataset carry
 
-#CONCLUSION
+## CONCLUSION
 
 1. Data Understanding
 
